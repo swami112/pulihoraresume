@@ -1,0 +1,48 @@
+{
+  "basics":{
+    "name":"lokesh",
+    "email":"sai.lokesh26199797@gmail.com",
+    "mobile":"+91 9848022339"
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "education":[
+    {
+      "degree":"B.Tech(c.s.e)",
+      "institute":"avanthi",
+      "data":["2015-2019","67%"]
+    },
+    {
+    "degree":"intermediate/diploma",
+    "institute":"sri chaitanya",
+    "data":["2013-2015","67%"]
+  },
+  {
+  "degree":"s.s.c",
+  "institute":"prasanthi",
+  "data":["2013","83%"]
+}],
+"skills":[
+  {
+    "tittle":"programming languages",
+    "info":["c","c++","java"]
+  },
+  {
+   "tittle":"Databases",
+    "info":["mysql","oracle"]
+  },
+  {
+    "tittle":"web technologies",
+    "info":["HTML","css3"]
+  },
+  {
+    "tittle":"libraries and frameworks",
+    "info":["ionic",".net"]
+  },
+  {
+    "tittle":"operating system",
+    "info":["linux","windows","Dos"]
+  }
+]
+}
